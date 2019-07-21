@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		84197ABD22DD0B040069500A /* NavigatoinController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigatoinController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84197ABD22DD0B040069500A /* NavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84197AC022DD0B040069500A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84197AC722DD0B050069500A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84197ACA22DD0B050069500A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		84197ABE22DD0B040069500A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				84197ABD22DD0B040069500A /* NavigatoinController.app */,
+				84197ABD22DD0B040069500A /* NavigationController.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		84197ABC22DD0B040069500A /* NavigatoinController */ = {
+		84197ABC22DD0B040069500A /* NavigationController */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 84197ACF22DD0B050069500A /* Build configuration list for PBXNativeTarget "NavigatoinController" */;
+			buildConfigurationList = 84197ACF22DD0B050069500A /* Build configuration list for PBXNativeTarget "NavigationController" */;
 			buildPhases = (
 				84197AB922DD0B040069500A /* Sources */,
 				84197ABA22DD0B040069500A /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = NavigatoinController;
+			name = NavigationController;
 			productName = Hello;
-			productReference = 84197ABD22DD0B040069500A /* NavigatoinController.app */;
+			productReference = 84197ABD22DD0B040069500A /* NavigationController.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 84197AB822DD0B040069500A /* Build configuration list for PBXProject "NavigatoinController" */;
+			buildConfigurationList = 84197AB822DD0B040069500A /* Build configuration list for PBXProject "NavigationController" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				84197ABC22DD0B040069500A /* NavigatoinController */,
+				84197ABC22DD0B040069500A /* NavigationController */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84197AB822DD0B040069500A /* Build configuration list for PBXProject "NavigatoinController" */ = {
+		84197AB822DD0B040069500A /* Build configuration list for PBXProject "NavigationController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84197ACD22DD0B050069500A /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		84197ACF22DD0B050069500A /* Build configuration list for PBXNativeTarget "NavigatoinController" */ = {
+		84197ACF22DD0B050069500A /* Build configuration list for PBXNativeTarget "NavigationController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84197AD022DD0B050069500A /* Debug */,
